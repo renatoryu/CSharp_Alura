@@ -1,0 +1,15 @@
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\bin\Debug\net6.0\07-ByteBank.exe
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\bin\Debug\net6.0\07-ByteBank.deps.json
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\bin\Debug\net6.0\07-ByteBank.runtimeconfig.json
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\bin\Debug\net6.0\07-ByteBank.dll
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\bin\Debug\net6.0\07-ByteBank.pdb
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\obj\Debug\net6.0\07-ByteBank.csproj.AssemblyReference.cache
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\obj\Debug\net6.0\07-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\obj\Debug\net6.0\07-ByteBank.AssemblyInfoInputs.cache
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\obj\Debug\net6.0\07-ByteBank.AssemblyInfo.cs
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\obj\Debug\net6.0\07-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\obj\Debug\net6.0\07-ByteBank.dll
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\obj\Debug\net6.0\refint\07-ByteBank.dll
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\obj\Debug\net6.0\07-ByteBank.pdb
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\obj\Debug\net6.0\07-ByteBank.genruntimeconfig.cache
+C:\Users\renato.cruz\Desktop\Vs_C#\01-ByteBank\07-ByteBank\obj\Debug\net6.0\ref\07-ByteBank.dll
